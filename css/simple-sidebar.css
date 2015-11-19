@@ -4,6 +4,18 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+body {
+    background: #FAFAFA;
+}
+
+#wrapper .navbar {
+    margin-bottom: 0;
+}
+
+#wrapper .page-header {
+    margin-top: 0;
+}
+
 /* Toggle Styles */
 
 #wrapper {
